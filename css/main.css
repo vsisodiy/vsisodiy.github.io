@@ -1630,7 +1630,7 @@ blockquote {
 }
 
 .blog-masonry.two-columns .item {
-  width: 50%;
+  width: 45%;
   float: left;
   padding: 0 1em 2em;
 }
